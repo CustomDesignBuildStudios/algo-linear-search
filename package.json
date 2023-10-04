@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Michael Termotto",
   "license": "ISC",
   "dependencies": {
     "jest": "^29.6.4"
